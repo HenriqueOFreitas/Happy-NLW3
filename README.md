@@ -6,13 +6,13 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/caioagiani/happy-nlw3">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/caioagiani/happy-nlw3">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/caioagiani/happy-nlw3">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/caioagiani/happy-nlw3">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
 </p>
 
 <br>
@@ -41,3 +41,10 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
+
+## 🧠 Desafio
+
+No link a seguir você encontra o guia no Notion referente aos desafios propostos para que você possa percorrer a milha extra e incrementar ainda mais essa aplicação. Lá também você encontra um guia mostrando todo o passo a passo de como realizar o deploy tanto do backend quanto do frontend.
+
+- [Desafio Happy 2.0](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4)
+
